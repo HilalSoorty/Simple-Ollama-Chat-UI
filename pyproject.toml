@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "gradui"
+version = "0.1.0"
+description = ""
+authors = ["Muhammad Hilal Soorty <hilal.soorty111@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+gradio = "^5.16.0"
+ollama = "^0.4.7"
+pillow = "^11.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
