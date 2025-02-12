@@ -5,6 +5,8 @@ Simple Ollama Chat UI
 
 A minimalistic chat interface for interacting with an Ollama model using Gradio. This project provides a clean and simple UI for conversing with an AI model served by Ollama.
 
+❗❗Switch to master branch for the Code.
+
 Features
 
 Chat with an Ollama model through a web-based UI.
